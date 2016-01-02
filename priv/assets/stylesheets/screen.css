@@ -3,6 +3,10 @@
     src: url('fonts/2F1C41_0_0.eot');
     src: url('fonts/2F1C41_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/2F1C41_0_0.woff2') format('woff2'),url('fonts/2F1C41_0_0.woff') format('woff'),url('fonts/2F1C41_0_0.ttf') format('truetype');}
  
+@font-face {
+    font-family: 'dream-orphans';
+    src: url('fonts/dream_orphans.eot');
+    src: url('fonts/dream_orphans.eot?#iefix') format('embedded-opentype'),url('fonts/dream_orphans.woff2') format('woff2'),url('fonts/dream_orphans.woff') format('woff'),url('fonts/dream_orphans.ttf') format('truetype');}
 html{
   font-family: "calluna-sans", sans-serif;
 }
@@ -56,10 +60,11 @@ header{
   padding-bottom: 0;
 }
 header h2{
-  font-family: 'Imprima', sans-serif;
-  font-weight: bold;
+  /*font-family: 'Imprima', sans-serif;*/
+  font-family: "dream-orphans", sans-serif;
+  /*font-weight: bold;*/
   font-size: 2em;
-  color: #9a2617;
+  color: #05A2C0;
 }
 header p{
   text-align: right;
@@ -118,7 +123,7 @@ abbr{
   letter-spacing: 0.1em;
 }
 .date{
-  color: #9a2617;
+  color: #f17c22;
   float: right;
 }
 p.appendage{
