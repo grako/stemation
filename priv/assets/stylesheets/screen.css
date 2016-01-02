@@ -1,0 +1,127 @@
+@font-face {
+    font-family: 'calluna-sans';
+    src: url('fonts/2F1C41_0_0.eot');
+    src: url('fonts/2F1C41_0_0.eot?#iefix') format('embedded-opentype'),url('fonts/2F1C41_0_0.woff2') format('woff2'),url('fonts/2F1C41_0_0.woff') format('woff'),url('fonts/2F1C41_0_0.ttf') format('truetype');}
+ 
+html{
+  font-family: "calluna-sans", sans-serif;
+}
+body{
+  height: 100%;
+  max-height: 100%;
+  font-size: 2.0rem;
+  color: #333332;
+  background-color: #f6f6ef;
+}
+h1, h2, h3, h4, h5, h6{
+  text-rendering: optimizeLegibility;
+  line-height: 1;
+  margin-top: 0;
+  font-family: 'calluna-sans', sans-serif;
+  font-weight: normal; 
+  font-style: normal; 
+}
+h3{
+  margin-top: 1em;
+}
+section, header, footer{
+  position: relative;
+  width: 80%;
+  max-width: 700px;
+  margin: 4rem auto;
+  padding-bottom: 4rem;
+  border-bottom: #2f8093 1px solid;
+  word-break: break-word;
+  hyphens: auto;
+}
+section{
+  margin-bottom: 0;
+}
+section p, section ol{
+  text-align: justify;
+  font-size: 0.8em;
+  line-height: 1.8em;
+}
+section > h2{
+  margin-bottom: 0;
+}
+section > div{
+  margin: 0.5em 0;
+}
+section > div:before{
+  content: "\261e "; /* integer_to_list(9758, 16) */
+}
+header{
+  line-height: 0;
+  padding-bottom: 0;
+}
+header h2{
+  font-family: 'Imprima', sans-serif;
+  font-weight: bold;
+  font-size: 2em;
+  color: #9a2617;
+}
+header p{
+  text-align: right;
+}
+footer{
+  font-size: 0.8em;
+  padding-bottom: 0;
+  margin-top: 0;
+  border-bottom: 0;
+}
+footer ul{
+  padding-left: 0;
+  list-style-type: none;
+}
+footer ul li{
+  padding-right: 1em;
+  display: inline;
+}
+a, u{
+  color: #2f8093;
+  font-weight: 100; /* FIXME on FF */
+  text-decoration: none;
+}
+pre{
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 0 1.75em 0;
+  border: #e3edf3 1px solid;
+  width: 100%;
+  padding: 10px;
+  font-family: 'Hack', monospace, sans-serif;
+  font-size: 0.8em;
+  white-space: pre;
+  overflow: auto;
+    background: #f7fafb;
+  border-radius: 3px;
+}
+pre code, pre tt {
+  white-space: pre-wrap;
+  background: transparent;
+  border: none;
+  padding: 0;
+}
+code, tt {
+  padding: 1px 3px;
+  font-family: 'Hack', monospace, sans-serif;
+  font-size: 0.65em;
+  white-space: pre-wrap;
+  border: #e3edf3 1px solid;
+    background: #f7fafb;
+  border-radius: 2px;
+}
+abbr{
+  font-size: 0.8em;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.date{
+  color: #9a2617;
+  float: right;
+}
+p.appendage{
+  text-align: right;
+  margin-bottom: 0;
+}
