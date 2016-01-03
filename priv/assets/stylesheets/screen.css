@@ -69,6 +69,7 @@ header h2{
 header p{
   text-align: right;
 }
+
 footer{
   font-size: 0.8em;
   padding-bottom: 0;
@@ -130,3 +131,7 @@ p.appendage{
   text-align: right;
   margin-bottom: 0;
 }
+.centered {
+    text-align: center;
+}
+
