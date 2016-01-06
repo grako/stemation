@@ -26,5 +26,5 @@ compile:
 help:
 	@echo 'Run tests with `make t` or run the generator `make gen`'
 ping:
-	curl -I "http://bing.com/webmaster/ping.aspx?siteMap=http://nato.cc/sitemap.xml"
-	curl -I "http://www.google.com/webmasters/sitemaps/ping?sitemap=http://nato.cc/sitemap.xml"
+	curl -I "http://bing.com/webmaster/ping.aspx?siteMap=http://stemation.com/sitemap.xml"
+	curl -I "http://www.google.com/webmasters/sitemaps/ping?sitemap=http://stemation.com/sitemap.xml"
