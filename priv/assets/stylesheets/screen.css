@@ -53,7 +53,7 @@ section > div{
   margin: 0.5em 0;
 }
 section > div:before{
-  content: "\261e "; /* integer_to_list(9758, 16) */
+  content: "\00b7 "; /* integer_to_list(9758, 16) */
 }
 header{
   line-height: 0;

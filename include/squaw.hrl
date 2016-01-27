@@ -26,4 +26,4 @@
 %% appendage:
 %% can be "" or "Any Html" and will show up on the footer of blog posts.
 %% great for social links, etc..
--define(appendage,"").
+-define(appendage,"<p class='appendage'>&#9758; <a href='//twitter.com/stemation'>follow on twitter</a></p>").
