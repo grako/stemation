@@ -30,7 +30,7 @@ After some self-reflection, I thought about the work that I do to support the ne
 Last year I was fortunate enough to be appointed Scholarship Chair for the Golden Gate Section of the Society of Women Engineers [(GGS SWE)](//ggs.swe.org/scholarship.html). The title itself is a mouthful, but in this new role I've learned a lot about fundraising and awareness (for the award itself). Each year we have many bright students apply from the Bay Area, and are able to provide scholarships to 6-8 students each year. The previous GGS SWE Scholarship recipients are young bright women that went off to study engineering or computer science at top schools, such as Stanford, UCLA, and UC Berkeley. 
 
 
-The awards are relatively small compared to the total cost of college education, but these awards also sends a strong message to the student recipients: ``Yes, you do belong here, and you have what it takes to be very successful engineer.''
+The awards are relatively small compared to the total cost of college education, but these awards also send a strong message to the student recipients: ``Yes, you do belong here, and you have what it takes to be a very successful engineer.''
 
 
 So once again, I find myself trying to fundraise for the scholarship fund, with a new personal goal to raise more funds and support more students than last year. If I’ve learned anything this week, it is that this work is important and needed; more now than ever. 
