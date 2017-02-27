@@ -38,7 +38,7 @@ I had an opportunity to meet Williams at a research conference, which is essenti
 
 **5. [Shiferaw S. Berhanu](//www.math.temple.edu/~berhanu), Professor of Mathematics at [Temple University](//www.math.temple.edu)) **
 
-The only non-engineer on my list is a mathematician from Philadelphia. I included Berhanu on this list because of his outreach work locally in Philadelphia, as well as globally. Berhanu spends his summers returning to his mother country of Ethiopia to teach college students at [Addis Ababa University](//www.aau.edu.et). 
+The only non-engineer on my list is a mathematician from Philadelphia. I included Berhanu on this list because of his outreach work locally in Philadelphia, as well as globally. Berhanu spends his summers returning to his mother country of Ethiopia to teach college students at [Addis Ababa University](//www.aau.edu.et), where he helped start a doctoral program. He recently received funding from the [Simons Foundation](//www.simonsfoundation.org/mathematics-and-physical-science) and the [International Science Program of Sweden](//www.isp.uu.se) to continue growing the program. 
 
 ![Shiferaw Berhanu](/assets/images/berhanu_adj.jpg)
 
