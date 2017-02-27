@@ -47,7 +47,7 @@ The only non-engineer on my list is a mathematician from Philadelphia. I include
 
 ![Ruth Ochia](/assets/images/RuthOchia_adj.jpg)
 
-Ochia's research focused on how age and degeneration alters the mechanical response of the soft tissues in the spine. Lower back pain will impact ~80% of Americans at some point in their life, and it is the 2nd leading cause for physical disability. Ochia's more recent work has focused primarily one engineering education and making engineering a more inclusive career choice for students. 
+Ochia's research focused on how age and degeneration alters the mechanical response of the soft tissues in the spine. Lower back pain will impact ~80% of Americans at some point in their life, and it is the 2nd leading cause for physical disability. Ochia's more recent work has focused primarily on engineering education and making engineering a more inclusive career choice for students. 
 
 **7. [Roman Ferede](//www.smc.edu/infoatsmc/archives/February012011/stories/NationalScienceAward.html), Professor of Chemical Engineering at [Santa Monica College](//www.smc.edu/Pages/Home.aspx)**
 
@@ -55,8 +55,8 @@ Ochia's research focused on how age and degeneration alters the mechanical respo
 
 Last, but not least, is actually my aunt. All of my Ethiopian aunts and uncles came to the United States in the 1970s and 1980s to receive a college education. Many of them went into STEM related fields, including architecture, computer programming, physics, and chemistry, so it's no surprise that I love everything about science and engineering. Ferede's research focuses on crop chemistry - specifically yams, but she also advises student groups that have done quite well at their respective [competitions](//www.smc.edu/infoatsmc/archives/February012011/stories/NationalScienceAward.html). 
 
-*Bonus.* [Gary May](//www.ece.gatech.edu/faculty-staff-directory/gary-s-may) Dean of Engineering at [Georgia Polytechnic Institute of Technology](//coe.gatech.edu)**
+**Bonus. [Gary May](//www.ece.gatech.edu/faculty-staff-directory/gary-s-may) Dean of Engineering at [Georgia Polytechnic Institute of Technology](//coe.gatech.edu)**
 
 I added this one at the end, because May has done a lot at Georgia Tech with regards to increasing student diversity at all levels (undergraduate and graduate student populations). However, it seemed like cheating to add him to the list here, since I've already written a [separate blog post](//stemation.com/blog/GaryMay.html) about May's outreach work. 
 
-*So why isn't the list longer? Well, because I must get back to writing my grant, of course! `Til next time.*
+*So why isn't the list longer? Well, because I must get back to writing my grant, of course! Till next time.*
